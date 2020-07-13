@@ -16,10 +16,10 @@ In case if you give wrong file extension , it will give you error message on the
 3. For running the test cases . 
   run the command dotnet test
   
-4. I've return two test cases for the checking the file extension in the TestClass.cs File
+4. I've written two test cases for the checking the file extension in the TestClass.cs File
 
 5. This is my first time I've return unit test cases in an application.
-6. If time would not be a constraint I would love to do the UI part so the application would not the console for running, or also could handled the exception more efficently.
+6. If time would not be a constraint I would love to do the UI part so the application would not need the console for running, or also could handled the exception more efficently.
 
 --------------------------------------------------------------------------------------XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------
 For Database Question
